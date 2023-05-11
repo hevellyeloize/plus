@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --branco-principal: #fafafa;
+    --cinza-secundario: #fcf9f9;
+    --botao-azul: #ff0404;
+    --cor-de-fundo: #060a37;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #ff1e00;
 }
 
 body {
@@ -146,7 +146,7 @@ body {
 }
 
 .lista__link a:active {
-    color: purple;
+    color: rgb(174, 99, 231);
 }
 
 .container__botao:hover {
